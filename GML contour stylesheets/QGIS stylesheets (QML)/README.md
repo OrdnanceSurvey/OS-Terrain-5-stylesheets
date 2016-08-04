@@ -16,13 +16,13 @@ These are QML files for OS Terrain 5 contours in GML format for use in QGIS.
 
 **4.**  We recommend the following layer order:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/GML%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/Terrain5_GML_conts_layer_order.PNG "Recommended layer order for OS Terrain 5 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/GML%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_5_layer_order.png "Recommended layer order for OS Terrain 5 contours")
 
 We recommend viewing the data between **1:1,000** and **1:25,000** for maximum legibility
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/GML%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/Terrain5_conts_screenshot.PNG "Screenshot of OS Terrain 5 contours at 1:15,000")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/GML%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_5_screenshot.png "Screenshot of OS Terrain 5 contours")
 
 ## Additional information
 
@@ -34,4 +34,4 @@ Your data should now look similar to this:
 
 ## Licence
 
-By using these stylesheets you are accepting the terms in the [Stylesheet Licence](http://www.ordnancesurvey.co.uk/docs/licences/stylesheet-licence-v2.pdf)
+By using these stylesheets you are accepting the terms of the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)

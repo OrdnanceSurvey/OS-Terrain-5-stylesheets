@@ -16,17 +16,17 @@ This is an ESRI layer file for OS Terrain 5 contours in ESRI Shapefile format fo
 
 **5.**  Your Table of Contents should now look like this. This is the recommended layer order:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/Terrain5_SHP_conts_layer_order.PNG "Recommended layer order for OS Terrain 5 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_5_layer_order.png "Recommended layer order for OS Terrain 5 contours")
 
 **6.**  Double-click on a layer to access the 'Layer Properties' window > select the 'Source tab' > click on 'Set Data Source...' > navigate to your OS Terrain 5 data > select the data that matches the layer > select 'Add'
 
 Repeat step 6 for both layers (point and line)
 
-We recommend viewing the data between **1:1,000** and **1:25,000** for maximum legibility
+We recommend viewing the data between **1:1,000** and **1:100,000** for maximum legibility
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/Terrain5_conts_screenshot.PNG "Screenshot of OS Terrain 5 contours at 1:15,000")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_5_screenshot.png "Screenshot of OS Terrain 5 contours")
 
 ## Additional information
 
@@ -38,4 +38,4 @@ Your data should now look similar to this:
 
 ## Licence
 
-By using these stylesheets you are accepting the terms in the [Stylesheet Licence](http://www.ordnancesurvey.co.uk/docs/licences/stylesheet-licence-v2.pdf)
+By using these stylesheets you are accepting the terms of the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)

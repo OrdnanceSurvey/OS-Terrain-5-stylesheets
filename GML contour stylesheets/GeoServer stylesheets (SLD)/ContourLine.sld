@@ -3,10 +3,10 @@
 xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.0.0/StyledLayerDescriptor.xsd">
   <NamedLayer>
-    <Name>OS Terrain&#8482; 5 (ContourLine)</Name>
+    <Name>OS Terrain&#174; 5 (ContourLine)</Name>
     <UserStyle>
       <Title>Product SLD - August 2016</Title>
-      <Abstract>OS Terrain&#8482; 5. Ordnance Survey. &#169; Crown copyright 2016.</Abstract>
+      <Abstract>OS Terrain&#174; 5. Ordnance Survey. &#169; Crown copyright 2016.</Abstract>
 
        <!--  Master contour line  -->
       

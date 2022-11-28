@@ -1,6 +1,6 @@
 # OS Terrain 5 contours
 
-These are QML files for OS Terrain 5 contours in ESRI Shapefile format for use in GeoServer.
+These are **QML** files for OS Terrain 5 contours in **ESRI Shapefile** format for use in **GeoServer**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -24,17 +24,15 @@ Your data should now look similar to this:
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-5-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_5_screenshot.png "Screenshot of OS Terrain 5 contours")
 
-##Compatibility notes
+## Compatibility notes
 
 Although SLD is an open OGC standard, these SLDs do contain some extended code used by GeoServer, namely the ‘vendor option’ tags.
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 [More information about OS Terrain 5](http://www.ordnancesurvey.co.uk/business-and-government/products/os-terrain-5.html)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
 ## Licence
 

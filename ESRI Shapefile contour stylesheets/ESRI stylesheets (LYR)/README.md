@@ -1,6 +1,6 @@
 # OS Terrain 5 contours
 
-This is an ESRI layer file for OS Terrain 5 contours in ESRI Shapefile format for use in ESRI ArcGIS.
+This is an **LYR** file for OS Terrain 5 contours in **ESRI Shapefile** format for use in **ESRI ArcGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -30,11 +30,9 @@ Your data should now look similar to this:
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 [More information about OS Terrain 5](http://www.ordnancesurvey.co.uk/business-and-government/products/os-terrain-5.html)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
 ## Licence
 
